@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/Table1">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_add_table1"
+                    android:icon="@drawable/add_icon"
+                    android:title="@string/Add" />
+                <item
+                    android:id="@+id/nav_edit_table1"
+                    android:icon="@drawable/edit_icon"
+                    android:title="@string/Edit" />
+                <item
+                    android:id="@+id/nav_delete_table1"
+                    android:icon="@drawable/delete_icon"
+                    android:title="@string/Delete" />
+                <item
+                    android:id="@+id/nav_view_Table1"
+                    android:icon="@drawable/table_icon"
+                    android:title="@string/ViewTable1" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="@string/Table2">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_add_table2"
+                    android:icon="@drawable/add_icon"
+                    android:title="@string/Add" />
+                <item
+                    android:id="@+id/nav_edit_table2"
+                    android:icon="@drawable/edit_icon"
+                    android:title="@string/Edit" />
+                <item
+                    android:id="@+id/nav_delete_table2"
+                    android:icon="@drawable/delete_icon"
+                    android:title="@string/Delete" />
+                <item
+                    android:id="@+id/nav_view_Table2"
+                    android:icon="@drawable/table_icon"
+                    android:title="@string/ViewTable2" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="@string/Table3">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_add_table3"
+                    android:icon="@drawable/add_icon"
+                    android:title="@string/Add" />
+                <item
+                    android:id="@+id/nav_edit_table3"
+                    android:icon="@drawable/edit_icon"
+                    android:title="@string/Edit" />
+                <item
+                    android:id="@+id/nav_delete_table3"
+                    android:icon="@drawable/delete_icon"
+                    android:title="@string/Delete" />
+                <item
+                    android:id="@+id/nav_view_Table3"
+                    android:icon="@drawable/table_icon"
+                    android:title="@string/ViewTable3" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/Table4">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_add_table4"
+                    android:icon="@drawable/add_icon"
+                    android:title="@string/Add" />
+                <item
+                    android:id="@+id/nav_edit_table4"
+                    android:icon="@drawable/edit_icon"
+                    android:title="@string/Edit" />
+                <item
+                    android:id="@+id/nav_delete_table4"
+                    android:icon="@drawable/delete_icon"
+                    android:title="@string/Delete" />
+                <item
+                    android:id="@+id/nav_view_Table4"
+                    android:icon="@drawable/table_icon"
+                    android:title="@string/ViewTable4" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/Querys">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/query1"
+                    android:icon="@drawable/database_icon"
+                    android:title="@string/Query1" />
+                <item
+                    android:id="@+id/query2"
+                    android:icon="@drawable/database_icon"
+                    android:title="@string/Query2" />
+                <item
+                    android:id="@+id/query3"
+                    android:icon="@drawable/database_icon"
+                    android:title="@string/Query3" />
+                <item
+                    android:id="@+id/query4"
+                    android:icon="@drawable/database_icon"
+                    android:title="@string/Query4" />
+                <item
+                    android:id="@+id/query5"
+                    android:icon="@drawable/database_icon"
+                    android:title="@string/Query5" />
+                <item
+                    android:id="@+id/query6"
+                    android:icon="@drawable/database_icon"
+                    android:title="@string/Query6" />
+            </group>
+        </menu>
+    </item>
+</menu>

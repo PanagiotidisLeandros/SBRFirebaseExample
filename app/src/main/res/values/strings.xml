@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">eshop database</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Home">Home</string>
+    <string name="Querys">Queries</string>
+    <string name="Add">Add</string>
+    <string name="Edit">Edit</string>
+    <string name="Delete">Delete</string>
+    <string name="Table1">Storage</string>
+    <string name="Table2">Orders</string>
+    <string name="Table3">Suppliers</string>
+    <string name="Table4">Sales</string>
+    <string name="ViewTable1">View Storage</string>
+    <string name="ViewTable2">View Orders</string>
+    <string name="ViewTable3">View Suppliers</string>
+    <string name="ViewTable4">View Sales</string>
+    <string name="Home_Screen">Home Screen</string>
+    <string name="Query1">Query1</string>
+    <string name="Query2">Query2</string>
+    <string name="Query3">Query3</string>
+    <string name="Query4">Query4</string>
+    <string name="Query5">Query5</string>
+    <string name="Query6">Query6</string>
+</resources>
